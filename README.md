@@ -2,7 +2,7 @@
 ### *Deterministic Unpredictability for Cryptographic Randomness*
 
 This repository contains the Python implementation and simulation scripts used in the paper:  
-**“Primes Don’t Play Fair: Deterministic Entropy from Prime-Gap Irregularity in Cryptographic Hashing”**  
+**“Primes Don’t Play Fair”** 
 by **Joshua Sanctus (2025)**.
 
 ---
@@ -90,7 +90,7 @@ matplotlib
 Run the main script:
 
 ```bash
-python prime_gap_entropy.py
+python prime_gap_simulation.py
 ```
 
 Optional arguments can be added inside the code to change:
@@ -127,18 +127,7 @@ If you use this work, please cite:
 }
 ```
 
----
 
-## 🧩 License
-This project is released under the **MIT License**.  
-You are free to modify and distribute it with proper credit to the original author.
-
----
-
-## 🤝 Acknowledgements
-This project was inspired by research connecting **number theory, entropy modeling, and lightweight cryptography**.  
-The development benefited from **AI-assisted editing (OpenAI’s GPT models)** for clarity and structure.  
-All ideas, code, and interpretations are original.
 
 ---
 
