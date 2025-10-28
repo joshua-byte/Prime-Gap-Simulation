@@ -73,7 +73,7 @@ Prime-Gap Augmented SHA-256:
 ```bash
 git clone https://github.com/<your-username>/prime-gap-entropy.git
 cd prime-gap-entropy
-pip install -r requirements.txt
+python3 prime_gap_simulation.py
 ```
 
 **Requirements:**
